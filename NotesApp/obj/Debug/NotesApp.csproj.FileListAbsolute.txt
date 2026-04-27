@@ -55,3 +55,19 @@ C:\Users\LugosiBálint\Downloads\Feladat\NotesApp\NotesApp\obj\Debug\NotesApp.cs
 C:\Users\LugosiBálint\Downloads\Feladat\NotesApp\NotesApp\obj\Debug\NotesApp.exe
 C:\Users\LugosiBálint\Downloads\Feladat\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
 C:\Users\LugosiBálint\Downloads\Feladat\NotesApp\NotesApp\obj\Debug\NotesApp.BaseForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.AuthForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.BaseForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.CreateNoteForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.ExitForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.NotesForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.OpenForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.RenameNoteForm.resources
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\LugosiBálint\OneDrive - CHRN\Dokumentumok\github\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
