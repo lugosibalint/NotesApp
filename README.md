@@ -11,7 +11,7 @@ Az alkalmazás célja egy felhasználóbarát, kategória-alapú jegyzetkezelő 
     * **TaskNote:** Feladatok nyilvántartása elvégezve/nem elvégezve állapottal.
     * **ReminderNote:** Határidőhöz kötött emlékeztetők.
 * **Adatkezelés:** A program a felhasználók által megadott adatokat szöveges fájlokban tárolja elválasztó karakterek használatával.(*data.txt, users.txt*)
-A beolvasáskor polimorfizmust alkalmazva a program automatikusan felismeri az adatokat és a megfelelő osztályból példányosítja azokat.
+* A beolvasáskor polimorfizmust alkalmazva a program automatikusan felismeri az adatokat és a megfelelő osztályból példányosítja azokat.
 * **Felhasználói felület:** Az alkalmazás modern, egységes megjelenésű ablakokat használ. A "Remember Me" funkció segítségével az utoljára bejelentkezett felhasználó neve egy külön fájlban (remembered.txt) tárolódik a kényelem érdekében.
 
 ## 3. Technikai Megvalósítás
