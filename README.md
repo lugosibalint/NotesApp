@@ -1,4 +1,4 @@
-# Jegyzetkezelő Alkalmazás - Dokumentáció
+# NotesApp - Jegyzetkezelő Alkalmazás
 
 ## 1. Bevezetés
 Az alkalmazás célja egy felhasználóbarát, kategória-alapú jegyzetkezelő rendszer létrehozása, amely lehetővé teszi a felhasználók számára a hatékony adatrendezést és nyomon követést. A program különböző típusú jegyzetek (szöveges, feladat, emlékeztető) létrehozására, szerkesztésére és tárolására szolgál.
