@@ -1,36 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LugosiB\u00E1lint\\OneDrive - CHRN\\Dokumentumok\\github\\NotesApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|c:\\users\\lugosib\u00E1lint\\onedrive - chrn\\dokumentumok\\github\\notesapp\\notesapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\OneDrive - CHRN\\Dokumentumok\\github\\NotesApp\\NotesApp\\BaseForm.cs",
-              "RelativeDocumentMoniker": "NotesApp\\BaseForm.cs",
-              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\OneDrive - CHRN\\Dokumentumok\\github\\NotesApp\\NotesApp\\BaseForm.cs [Design]",
-              "RelativeToolTip": "NotesApp\\BaseForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T09:38:20.316Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
