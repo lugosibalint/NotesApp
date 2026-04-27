@@ -1,1 +1,2 @@
 1ae29b94-b092-4000-8694-46a8583560bd;test;testnote;BigText;
+e457663a-3445-4611-9230-22de586de7aa;test;testreminder;Reminder;;2026. 04. 27. 13:15:24

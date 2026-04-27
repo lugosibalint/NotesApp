@@ -43,17 +43,18 @@
             this.refreshToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tb_content = new System.Windows.Forms.TextBox();
+            this.l_type = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lb_notes
             // 
             this.lb_notes.FormattingEnabled = true;
-            this.lb_notes.ItemHeight = 20;
-            this.lb_notes.Location = new System.Drawing.Point(112, 174);
-            this.lb_notes.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.lb_notes.ItemHeight = 28;
+            this.lb_notes.Location = new System.Drawing.Point(137, 244);
+            this.lb_notes.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.lb_notes.Name = "lb_notes";
-            this.lb_notes.Size = new System.Drawing.Size(981, 264);
+            this.lb_notes.Size = new System.Drawing.Size(903, 228);
             this.lb_notes.TabIndex = 1;
             this.lb_notes.Visible = false;
             this.lb_notes.SelectedValueChanged += new System.EventHandler(this.lb_notes_SelectedValueChanged);
@@ -61,29 +62,31 @@
             // l_yournotes
             // 
             this.l_yournotes.AutoSize = true;
-            this.l_yournotes.Location = new System.Drawing.Point(108, 132);
-            this.l_yournotes.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.l_yournotes.Location = new System.Drawing.Point(132, 185);
+            this.l_yournotes.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.l_yournotes.Name = "l_yournotes";
-            this.l_yournotes.Size = new System.Drawing.Size(89, 20);
+            this.l_yournotes.Size = new System.Drawing.Size(108, 28);
             this.l_yournotes.TabIndex = 0;
             this.l_yournotes.Text = "Your Notes";
             // 
             // l_logged
             // 
             this.l_logged.AutoSize = true;
-            this.l_logged.Location = new System.Drawing.Point(39, 60);
+            this.l_logged.Location = new System.Drawing.Point(48, 84);
+            this.l_logged.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.l_logged.Name = "l_logged";
-            this.l_logged.Size = new System.Drawing.Size(104, 20);
+            this.l_logged.Size = new System.Drawing.Size(127, 28);
             this.l_logged.TabIndex = 0;
             this.l_logged.Text = "Logged in as:";
             this.l_logged.Visible = false;
             // 
             // tb_loggedname
             // 
-            this.tb_loggedname.Location = new System.Drawing.Point(150, 52);
+            this.tb_loggedname.Location = new System.Drawing.Point(193, 78);
+            this.tb_loggedname.Margin = new System.Windows.Forms.Padding(4);
             this.tb_loggedname.Name = "tb_loggedname";
             this.tb_loggedname.ReadOnly = true;
-            this.tb_loggedname.Size = new System.Drawing.Size(140, 26);
+            this.tb_loggedname.Size = new System.Drawing.Size(190, 34);
             this.tb_loggedname.TabIndex = 0;
             this.tb_loggedname.Visible = false;
             // 
@@ -91,7 +94,8 @@
             // 
             this.cb_loggedIn.AutoSize = true;
             this.cb_loggedIn.Enabled = false;
-            this.cb_loggedIn.Location = new System.Drawing.Point(309, 58);
+            this.cb_loggedIn.Location = new System.Drawing.Point(420, 84);
+            this.cb_loggedIn.Margin = new System.Windows.Forms.Padding(4);
             this.cb_loggedIn.Name = "cb_loggedIn";
             this.cb_loggedIn.Size = new System.Drawing.Size(22, 21);
             this.cb_loggedIn.TabIndex = 0;
@@ -108,7 +112,8 @@
             this.logoutToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1200, 33);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 3, 0, 3);
+            this.menuStrip1.Size = new System.Drawing.Size(1178, 35);
             this.menuStrip1.TabIndex = 8;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -120,7 +125,7 @@
             this.renameToolStripMenuItem,
             this.deleteToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(54, 29);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(54, 30);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // newToolStripMenuItem
@@ -162,31 +167,43 @@
             // refreshToolStripMenuItem
             // 
             this.refreshToolStripMenuItem.Name = "refreshToolStripMenuItem";
-            this.refreshToolStripMenuItem.Size = new System.Drawing.Size(86, 29);
+            this.refreshToolStripMenuItem.Size = new System.Drawing.Size(86, 30);
             this.refreshToolStripMenuItem.Text = "Refresh";
             this.refreshToolStripMenuItem.Click += new System.EventHandler(this.refreshToolStripMenuItem_Click);
             // 
             // logoutToolStripMenuItem
             // 
             this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(85, 29);
+            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(85, 30);
             this.logoutToolStripMenuItem.Text = "Logout";
             this.logoutToolStripMenuItem.Click += new System.EventHandler(this.logoutToolStripMenuItem_Click);
             // 
             // tb_content
             // 
-            this.tb_content.Location = new System.Drawing.Point(112, 499);
+            this.tb_content.Location = new System.Drawing.Point(137, 547);
+            this.tb_content.Margin = new System.Windows.Forms.Padding(4);
             this.tb_content.Name = "tb_content";
             this.tb_content.ReadOnly = true;
-            this.tb_content.Size = new System.Drawing.Size(981, 26);
+            this.tb_content.Size = new System.Drawing.Size(903, 34);
             this.tb_content.TabIndex = 9;
             this.tb_content.Visible = false;
             // 
+            // l_type
+            // 
+            this.l_type.AutoSize = true;
+            this.l_type.Location = new System.Drawing.Point(132, 515);
+            this.l_type.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.l_type.Name = "l_type";
+            this.l_type.Size = new System.Drawing.Size(53, 28);
+            this.l_type.TabIndex = 10;
+            this.l_type.Text = "Type";
+            // 
             // NotesForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 28F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.ClientSize = new System.Drawing.Size(1178, 744);
+            this.Controls.Add(this.l_type);
             this.Controls.Add(this.tb_content);
             this.Controls.Add(this.cb_loggedIn);
             this.Controls.Add(this.tb_loggedname);
@@ -195,7 +212,7 @@
             this.Controls.Add(this.lb_notes);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.Name = "NotesForm";
             this.Text = "Notes";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.NotesForm_FormClosing);
@@ -223,5 +240,6 @@
         private System.Windows.Forms.ToolStripMenuItem refreshToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem logoutToolStripMenuItem;
         private System.Windows.Forms.TextBox tb_content;
+        private System.Windows.Forms.Label l_type;
     }
 }

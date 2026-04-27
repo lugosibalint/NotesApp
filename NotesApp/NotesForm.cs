@@ -217,6 +217,7 @@ namespace NotesApp
                 cb_loggedIn.Visible = true;
                 l_logged.Visible = true;
                 l_yournotes.Visible = true;
+                l_type.Visible = true;
                 tb_loggedname.Visible = true;
                 tb_loggedname.Text = u.name;
                 tb_content.Visible = true;
@@ -227,6 +228,8 @@ namespace NotesApp
                 cb_loggedIn.Visible = false;
                 l_logged.Visible = false;
                 l_yournotes.Visible=false;
+                l_type.Visible = false;
+                //l_type.Text = string.Empty;
                 tb_loggedname.Visible = false;
                 tb_loggedname.Text = string.Empty;
                 tb_content.Visible = false;
@@ -251,7 +254,8 @@ namespace NotesApp
         {
             if (lb_notes.SelectedItem is Note selected)
             {
-                tb_content.Text = $"{selected.type.ToString()}->\t{selected.content.Replace("###NEWLINE###", "\t")}";
+                l_type.Text = selected.type.ToString();
+                tb_content.Text = $"{selected.content.Replace("###NEWLINE###", "\t")}";
             }
             
         }
