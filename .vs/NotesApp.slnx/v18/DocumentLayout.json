@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|c:\\users\\lugosib\u00E1lint\\downloads\\feladat\\notesapp\\notesapp\\renamenoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\renamenoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\openform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\openform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\createnoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\createnoteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\exitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\exitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\notesapp\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A697F9-7DEC-4412-A11D-2D70EAEE2CBA}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNoteForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\CreateNoteForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\CreateNoteForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\CreateNoteForm.cs",
+              "RelativeToolTip": "NotesApp\\CreateNoteForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:47:02.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenameNoteForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\RenameNoteForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\RenameNoteForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\RenameNoteForm.cs",
+              "RelativeToolTip": "NotesApp\\RenameNoteForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:09:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\AuthForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\AuthForm.cs [Design]",
+              "RelativeToolTip": "NotesApp\\AuthForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:08:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExitForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\ExitForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\ExitForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\ExitForm.cs",
+              "RelativeToolTip": "NotesApp\\ExitForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:09:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\Note.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Note.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\Note.cs",
+              "RelativeToolTip": "NotesApp\\Note.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:47:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\AuthForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\AuthForm.cs",
+              "RelativeToolTip": "NotesApp\\AuthForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:58:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\NotesForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\NotesForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\NotesForm.cs",
+              "RelativeToolTip": "NotesApp\\NotesForm.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwJUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:56:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\BaseForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\BaseForm.cs [Design]",
+              "RelativeToolTip": "NotesApp\\BaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:54:54.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\OpenForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\OpenForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\OpenForm.cs",
+              "RelativeToolTip": "NotesApp\\OpenForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:09:44.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\BaseForm.cs",
+              "RelativeDocumentMoniker": "NotesApp\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\LugosiB\u00E1lint\\Downloads\\Feladat\\NotesApp\\NotesApp\\BaseForm.cs",
+              "RelativeToolTip": "NotesApp\\BaseForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:55:00.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
