@@ -1,4 +1,3 @@
-
 # Jegyzetkezelő Alkalmazás - Dokumentáció
 
 ## 1. Bevezetés
