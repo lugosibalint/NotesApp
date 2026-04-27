@@ -24,11 +24,11 @@ Az alkalmazás célja egy felhasználóbarát, kategória-alapú jegyzetkezelő 
 * A regisztrációs felületen adjon meg egy **nevet**, egy minimum 3 karakteres **felhasználónevet** és egy minimum 5 karakteres **jelszót**.
 * Regisztráljon egy új **felhasználót**.
 * Jelentkezzen be a **felhasználónevével** és **jelszavával**.
-* **Új jegyzet** létrehozásához használja a **`New` > `Note`** gombot a menüsor ``File`` oszlopából, válassza ki a kívánt típust, majd a mentés gombbal eltárolhatja.
+* **Új jegyzet** létrehozásához használja a **`New` > `Note`** gombot a menüsor `File` oszlopából, válassza ki a kívánt típust, majd a mentés gombbal eltárolhatja.
 * Jelölje ki a kívánt jegyzetet a listából, ekkor egy kis dobozban alul megjelenik a jegyzet típusa és előnézete.
-* A jegyzet tartalmának szerkesztéshez használja az "Open Note" gombot a menüsor "File" oszlopában
-* A jegyzet átnevezéséhez vagy törléséhez használja a "Rename" vagy "Delete" gombot a menüsor "File" oszlopában
+* A jegyzet tartalmának szerkesztéshez használja az **`Open Note`** gombot a menüsor `File` oszlopában
+* A jegyzet átnevezéséhez vagy törléséhez használja a **`Rename`** vagy **`Delete`** gombot a menüsor `File` oszlopában
 * Amennyiben szerkesztés közben mentés nélkül kívánja bezárni az ablakot a program rákérdez, hogy kívánja-e menteni vagy bezárja mentés nélkül.
-* Amennyiben szerkesztés után nem frissülnek az adatok azonnal, a menüsorban található "Refresh" gombbal frissíteni tudjuk az adathalmazt.
-* Kijelentkezéshez használja a menüsorban található "Logout" gombot, ekkor be tud jelentkezni egy másik felhasználóval az alkalmazás újraindítása nélkül.
+* Amennyiben szerkesztés után nem frissülnek az adatok azonnal, a menüsorban található **`Refresh`** gombbal frissíteni tudjuk az adathalmazt.
+* Kijelentkezéshez használja a menüsorban található **`Logout`** gombot, ekkor be tud jelentkezni egy másik felhasználóval az alkalmazás újraindítása nélkül.
 Amennyiben be szeretné zárni az alkalmazást úgy, hogy be van jelentkezve a program megkérdezi, hogy csak kijelentkezni szeretnénk vagy végleg bezárni a programot.
