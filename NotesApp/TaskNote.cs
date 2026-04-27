@@ -8,12 +8,12 @@ namespace NotesApp
 {
     internal class TaskNote : Note
     {
-        public TaskNote(string user, string name, NoteType type) : base(user, name, type)
+        public TaskNote(string user, string name) : base(user, name)
         {
             this.done = false;
         }
 
-        public TaskNote(Guid id, string user, string name, NoteType type, string content, bool done) : base(id, user, name, type, content)
+        public TaskNote(Guid id, string user, string name, string content, bool done) : base(id, user, name, content)
         {
             this.done = done;
         }
@@ -22,7 +22,7 @@ namespace NotesApp
 
         public override string ToTXT()
         {
-            return $"{id.ToString()};{user};{name};{type.ToString()};{content};{done.ToString()}";
+            return $"{id.ToString()};{user};{name};{this.GetType().ToString()};{content};{done.ToString()}";
         }
     }
 }

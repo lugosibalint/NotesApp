@@ -8,8 +8,10 @@ namespace NotesApp
 {
     public enum NoteType
     {
-        BigText = 0,
-        Task = 1,
-        Reminder = 2
+        Text,
+        Task,
+        Reminder
+
+
     }
 }

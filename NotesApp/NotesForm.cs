@@ -33,16 +33,16 @@ namespace NotesApp
                 {
                     string[] s = sr.ReadLine().Split(';');
                     Note n = null;
-                    switch ((NoteType)Enum.Parse(typeof(NoteType), s[3]))
+                    switch (s[3])
                     {
-                        case NoteType.BigText:
-                            n = new BigTextNote(Guid.Parse(s[0]), s[1], s[2], (NoteType)Enum.Parse(typeof(NoteType), s[3]), s[4]);
+                        case "NotesApp.BigTextNote":
+                            n = new BigTextNote(Guid.Parse(s[0]), s[1], s[2], s[4]);
                             break;
-                        case NoteType.Task:
-                            n = new TaskNote(Guid.Parse(s[0]), s[1], s[2], (NoteType)Enum.Parse(typeof(NoteType), s[3]), s[4], bool.Parse(s[5]));
+                        case "NotesApp.TaskNote":
+                            n = new TaskNote(Guid.Parse(s[0]), s[1], s[2], s[4], bool.Parse(s[5]));
                             break;
-                        case NoteType.Reminder:
-                            n = new ReminderNote(Guid.Parse(s[0]), s[1], s[2], (NoteType)Enum.Parse(typeof(NoteType), s[3]), s[4], DateTime.Parse(s[5]));
+                        case "NotesApp.ReminderNote":
+                            n = new ReminderNote(Guid.Parse(s[0]), s[1], s[2], s[4], DateTime.Parse(s[5]));
                             break;
                     }
                     notes.Add(n);
@@ -116,6 +116,29 @@ namespace NotesApp
             }
 
         }
+        private void newnoteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CreateNoteForm cnf = new CreateNoteForm();
+            if (cnf.ShowDialog() == DialogResult.OK)
+            {
+                Note n = null;
+                switch (cnf.type)
+                {
+                    case NoteType.Text:
+                        n = new BigTextNote(u.username, cnf.name);
+                        break;
+                    case NoteType.Task:
+                        n = new TaskNote(u.username, cnf.name);
+                        break;
+                    case NoteType.Reminder:
+                        n = new ReminderNote(u.username, cnf.name);
+                        break;
+                }
+
+                notes.Add(n);
+                ReloadData();
+            }
+        }
         private void refreshToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ReloadData();
@@ -185,26 +208,7 @@ namespace NotesApp
 
         private void noteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            CreateNoteForm cnf = new CreateNoteForm();
-            if (cnf.ShowDialog() == DialogResult.OK)
-            {
-                Note n = null;
-                switch (cnf.type)
-                {
-                    case NoteType.BigText:
-                        n = new BigTextNote(u.username, cnf.name, NoteType.BigText);
-                        break;
-                    case NoteType.Task:
-                        n = new TaskNote(u.username, cnf.name, NoteType.Task);
-                        break;
-                    case NoteType.Reminder:
-                        n = new ReminderNote(u.username, cnf.name, NoteType.Reminder);
-                        break;
-                }
 
-                notes.Add(n);
-                ReloadData();
-            }
         }
         private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -229,7 +233,7 @@ namespace NotesApp
                 l_logged.Visible = false;
                 l_yournotes.Visible=false;
                 l_type.Visible = false;
-                //l_type.Text = string.Empty;
+                l_type.Text = string.Empty;
                 tb_loggedname.Visible = false;
                 tb_loggedname.Text = string.Empty;
                 tb_content.Visible = false;
@@ -254,11 +258,24 @@ namespace NotesApp
         {
             if (lb_notes.SelectedItem is Note selected)
             {
-                l_type.Text = selected.type.ToString();
+                switch (selected.GetType().ToString())
+                {
+                    case "NotesApp.BigTextNote":
+                        l_type.Text = "Big Text";
+                        break;
+                    case "NotesApp.TaskNote":
+                        l_type.Text = "Task";
+                        break;
+                    case "NotesApp.ReminderNote":
+                        l_type.Text = "Reminder";
+                        break;
+                }
                 tb_content.Text = $"{selected.content.Replace("###NEWLINE###", "\t")}";
             }
             
         }
+
+        
     }
 }
 
