@@ -24,7 +24,7 @@ Az alkalmazás célja egy felhasználóbarát, kategória-alapú jegyzetkezelő 
 * A regisztrációs felületen adjon meg egy **nevet**, egy minimum 3 karakteres **felhasználónevet** és egy minimum 5 karakteres **jelszót**.
 * Regisztráljon egy új **felhasználót**.
 * Jelentkezzen be a **felhasználónevével** és **jelszavával**.
-* **Új jegyzet** létrehozásához használja a **`New` > `Note`** gombot a menüsor "File" oszlopából, válassza ki a kívánt típust, majd a mentés gombbal eltárolhatja.
+* **Új jegyzet** létrehozásához használja a **`New` > `Note`** gombot a menüsor ``File`` oszlopából, válassza ki a kívánt típust, majd a mentés gombbal eltárolhatja.
 * Jelölje ki a kívánt jegyzetet a listából, ekkor egy kis dobozban alul megjelenik a jegyzet típusa és előnézete.
 * A jegyzet tartalmának szerkesztéshez használja az "Open Note" gombot a menüsor "File" oszlopában
 * A jegyzet átnevezéséhez vagy törléséhez használja a "Rename" vagy "Delete" gombot a menüsor "File" oszlopában
