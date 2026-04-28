@@ -31,3 +31,5 @@ Az alkalmazás célja egy felhasználóbarát, kategória-alapú jegyzetkezelő 
 * Amennyiben szerkesztés után nem frissülnek az adatok azonnal, a menüsorban található **`Refresh`** gombbal frissíteni tudjuk az adathalmazt.
 * Kijelentkezéshez használja a menüsorban található **`Logout`** gombot, ekkor be tud jelentkezni egy másik felhasználóval az alkalmazás újraindítása nélkül.
 Amennyiben be szeretné zárni az alkalmazást úgy, hogy be van jelentkezve a program megkérdezi, hogy csak kijelentkezni szeretnénk vagy végleg bezárni a programot.
+
+*Készítette: Lugosi Bálint és Kiss Patrik Zalán*
